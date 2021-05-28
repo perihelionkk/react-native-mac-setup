@@ -1,5 +1,5 @@
 # react-native-mac-setup
-Set up your React Native environment on a macOS
+Set up your React Native environment on macOS
 
 ---
 
