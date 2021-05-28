@@ -26,4 +26,4 @@ $ react-native run-ios
 
 ---
 
-![Welcome to React Native](“https://perihelion.co.jp/assets/images/Welcome-to-React-Native.png”)
+![Welcome to React Native](./images/Welcome-to-React-Native.png)
